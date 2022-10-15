@@ -1,0 +1,16 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  header{
+    display: flex;
+    padding: 60px;
+    background-color: #E3B2C3;
+    color: white;
+    font-size: 30px;
+
+  }
